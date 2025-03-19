@@ -30,9 +30,10 @@ You can find the dataset here: [Delaney Solubility with Descriptors](https://raw
 
 Here's a sneak peek at the model performance:
 
-Method                    Train MSE  Train R2   Test MSE   Test R2
-0  Linear Regression        0.260579  0.772583   0.270966  0.781844
-1  Random Forest Regression  0.479532  0.581561   0.505035  0.603358
+| # | Method                   | Train MSE | Train R2 | Test MSE | Test R2 |
+|---|--------------------------|-----------|----------|----------|---------|
+| 1 | Linear Regression        | 0.260579  | 0.772583 | 0.270966 | 0.781844|
+| 2 | Random Forest Regression | 0.479532  | 0.581561 | 0.505035 | 0.603358|
 
 As you can see, Linear Regression performed better on this data set.
 
