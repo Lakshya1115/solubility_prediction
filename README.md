@@ -69,7 +69,7 @@ To run this project on your local machine, follow these steps:
 3.  **Run the Script:**
 
     ```bash
-    python your_script_name.py
+    python solubility_prediction_model.py
     ```
 
 ## Let's Connect! 🤝
