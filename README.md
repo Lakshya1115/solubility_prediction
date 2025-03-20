@@ -32,8 +32,8 @@ Here's a sneak peek at the model performance:
 
 | # | Method                   | Train MSE | Train R2 | Test MSE | Test R2 |
 |---|--------------------------|-----------|----------|----------|---------|
-| 1 | Linear Regression        | 0.260579  | 0.772583 | 0.270966 | 0.781844|
-| 2 | Random Forest Regression | 0.479532  | 0.581561 | 0.505035 | 0.603358|
+| 1 | Linear Regression        | 1.057964  | 0.759096 | 0.824624 | 0.811902|
+| 2 | Random Forest Regression | 1.03469   | 0.764396 | 0.916325 | 0.790985|
 
 As you can see, Linear Regression performed better on this data set.
 
