@@ -57,7 +57,7 @@ To run this project on your local machine, follow these steps:
 
     ```bash
     git clone [https://github.com/Lakshya1115/solubility_prediction]
-    cd [your-repo-directory]
+    cd [/solubility_prediction]
     ```
 
 2.  **Install Dependencies:**
